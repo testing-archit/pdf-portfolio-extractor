@@ -1,0 +1,7 @@
+node_modules
+*.DS_Store
+*.log
+output/
+assets/
+input/
+!input/mock.pdf
